@@ -29,7 +29,7 @@ This project showcases an interactive **Sales Order & Order Punch Dashboard** bu
 
 ## 📊 Dashboard Preview
 
-[Dashboard Preview]<img width="583" height="726" alt="image" src="https://github.com/user-attachments/assets/499c1514-a39b-4d30-b9bc-acb556287d54" />
+<img width="583" height="726" alt="image" src="https://github.com/user-attachments/assets/499c1514-a39b-4d30-b9bc-acb556287d54" />
 
 📄 **Download Full Dashboard (PDF):**
 [Click Here](MIS_DASHBOARD.pdf)
