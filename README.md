@@ -55,15 +55,6 @@ This project showcases an interactive **Sales Order & Order Punch Dashboard** bu
 
 ---
 
-## 👨‍💻 Author
-
-**Ashish Ranjan**
-📊 Data Analyst | MIS Executive
----
-
-## ⚠️ Note
-This project uses **dummy/modified data** for portfolio purposes. No confidential company data is shared.
----
 
 ## ⭐ Project Highlights
 
@@ -73,3 +64,17 @@ This project uses **dummy/modified data** for portfolio purposes. No confidentia
 * Professional dashboard design
 
 ---
+
+## ⚠️ Note
+This project uses **dummy/modified data** for portfolio purposes. No confidential company data is shared.
+
+---
+
+## 📫 Contact
+- Name: Ashish Ranjan 
+- 📧 Email: ashishranjan11211@gmail.com  
+- 🔗 LinkedIn: linkedin.com/in/ashishranjanji09
+
+---
+
+⭐ If you like this project, give it a star!
