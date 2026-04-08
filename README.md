@@ -59,7 +59,10 @@ This project showcases an interactive **Sales Order & Order Punch Dashboard** bu
 
 **Ashish Ranjan**
 📊 Data Analyst | MIS Executive
+---
 
+## ⚠️ Note
+This project uses **dummy/modified data** for portfolio purposes. No confidential company data is shared.
 ---
 
 ## ⭐ Project Highlights
